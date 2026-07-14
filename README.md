@@ -1,77 +1,158 @@
 # 👋 ¡Hola! Soy Ana Mariela Leyes
 
-## 💻 Analista de Sistemas | Data Analytics | Business Intelligence
+## 💻 Analista de Sistemas | Tecnología | Automatización | Business Intelligence | Ciencia de Datos
 
-Soy Analista de Sistemas y estudiante de la Licenciatura en Ciencia de Datos, apasionada por transformar datos en información estratégica para la toma de decisiones.
+Bienvenido/a a mi perfil de GitHub.
 
-Tengo más de 4 años de experiencia desarrollando soluciones de Business Intelligence, automatización de procesos y análisis de datos utilizando Power BI, SQL y Python.
+Soy Analista de Sistemas y estudiante de la Licenciatura en Ciencia de Datos, apasionada por la tecnología y por crear soluciones que aporten valor a las organizaciones.
 
----
+Me motiva comprender cómo funcionan los procesos, identificar oportunidades de mejora y desarrollar herramientas que permitan optimizar el trabajo mediante la automatización, el análisis de información y el desarrollo de software.
 
-## 🚀 Tecnologías
-
-💙 Power BI
-
-🟨 SQL Server
-
-🐍 Python
-
-📊 Microsoft Fabric
-
-📈 Excel Avanzado
-
-⚙️ Power Automate
-
-🔄 n8n
-
-🌐 APIs REST
-
-📁 Git & GitHub
+Disfruto aprender constantemente nuevas tecnologías y enfrentar desafíos que me permitan crecer tanto profesional como personalmente.
 
 ---
 
-## 📂 Proyectos
+# 🚀 Sobre mí
 
-📊 Dashboard Comercial
-
-🚚 Club Transportista
-
-📈 Business Intelligence
-
-🐍 Automatización con Python
-
-🌐 Web Scraping
-
-🧠 Ciencia de Datos (en desarrollo)
+- 💻 Analista de Sistemas.
+- 🎓 Estudiante de Licenciatura en Ciencia de Datos.
+- 📊 Experiencia en Business Intelligence y análisis de información.
+- ⚙️ Apasionada por la automatización de procesos.
+- 🌐 Interés por el desarrollo de software y la arquitectura de soluciones.
+- 📚 Aprendiz continuo de nuevas tecnologías.
+- 🤝 Me gusta trabajar en equipo y compartir conocimientos.
 
 ---
 
-## 🌱 Actualmente aprendiendo
+# 💡 Áreas de interés
+
+- Desarrollo de Software
+- Análisis de Sistemas
+- Arquitectura de Soluciones
+- Automatización de Procesos
+- Business Intelligence
+- Bases de Datos
+- Ciencia de Datos
+- Inteligencia Artificial
+- Cloud Computing
+- APIs e Integraciones
+- Optimización de Procesos
+- Innovación Tecnológica
+
+---
+
+# 🛠 Tecnologías y herramientas
+
+### Lenguajes
+
+- Python
+- SQL
+- Java
+- HTML
+- CSS
+- JavaScript
+
+### Business Intelligence
+
+- Power BI
+- DAX
+- Power Query
+- Microsoft Fabric
+
+### Bases de Datos
+
+- SQL Server
+- MySQL
+
+### Automatización
+
+- Python
+- Power Automate
+- n8n
+- APIs REST
+- Web Scraping
+
+### Herramientas
+
+- Git
+- GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- Excel Avanzado
+
+### Cloud
+
+- AWS (Fundamentos)
+
+---
+
+# 📂 Repositorios
+
+En este perfil encontrarás proyectos relacionados con:
+
+- 📊 Dashboards en Power BI
+- 🐍 Automatizaciones con Python
+- 💾 Bases de Datos y SQL
+- 🌐 Desarrollo Web
+- 🤖 Inteligencia Artificial
+- 📈 Business Intelligence
+- 🔄 Integración mediante APIs
+- 🎓 Proyectos académicos
+- ⚙️ Desarrollo de aplicaciones
+- 🚀 Nuevas tecnologías
+
+---
+
+# 🌱 Actualmente aprendiendo
 
 - Machine Learning
 - Microsoft Fabric
 - Inteligencia Artificial
+- Arquitectura de Software
+- Cloud Computing
 - Ciencia de Datos
-- Arquitectura de Datos
+- Buenas prácticas de desarrollo
+- Diseño de soluciones escalables
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objetivos
 
-Seguir creciendo profesionalmente en proyectos relacionados con:
+Mi objetivo es continuar desarrollándome como profesional de tecnología, participando en proyectos que combinen análisis, desarrollo, innovación y mejora continua.
 
-- Data Analytics
+Busco crear soluciones que ayuden a las organizaciones a tomar mejores decisiones, optimizar procesos y aprovechar el potencial de la información mediante el uso de la tecnología.
+
+---
+
+# 🤝 Me interesa colaborar en
+
+- Desarrollo de Software
+- Automatización de Procesos
+- Proyectos Open Source
 - Business Intelligence
-- Data Science
-- Analista Funcional
-- Analista de Sistemas
+- Ciencia de Datos
+- Inteligencia Artificial
+- Integraciones con APIs
+- Herramientas para optimización de procesos
 
 ---
 
-## 📫 Contacto
+# 📈 Filosofía
 
-📧 anamleyes@gmail.com
+Creo que la tecnología no solo consiste en escribir código, sino en comprender los problemas, diseñar soluciones eficientes y generar impacto positivo mediante la innovación.
 
-💼 LinkedIn
+Cada proyecto representa una oportunidad para aprender, mejorar y crear valor.
 
-www.linkedin.com/in/analeyes
+---
+
+# 📫 Contacto
+
+📧 **Email:** anamleyes@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/analeyes
+
+---
+
+⭐ Gracias por visitar mi perfil.
+Siempre estoy abierta a aprender, colaborar y participar en nuevos desafíos tecnológicos.
