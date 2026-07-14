@@ -2,7 +2,7 @@
 
 ## 💻 Analista de Sistemas | Tecnología | Automatización | Business Intelligence | Ciencia de Datos
 
-Bienvenido/a a mi perfil de GitHub.
+Bienvenido/a  a mi perfil de GitHub.
 
 Soy Analista de Sistemas y estudiante de la Licenciatura en Ciencia de Datos, apasionada por la tecnología y por crear soluciones que aporten valor a las organizaciones.
 
@@ -46,11 +46,7 @@ Disfruto aprender constantemente nuevas tecnologías y enfrentar desafíos que m
 ### Lenguajes
 
 - Python
-- SQL
-- Java
-- HTML
-- CSS
-- JavaScript
+
 
 ### Business Intelligence
 
